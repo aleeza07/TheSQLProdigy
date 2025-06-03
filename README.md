@@ -24,6 +24,7 @@ Combined AND + OR like a boss to solve complex conditions! 🤯
 Cross-verified concepts on W3Schools + practiced there for bulletproof understanding!
 
 📚 Why This Matters?
+<br>
 These operators are the backbone of filtering in SQL—crucial for reports, analytics, and app logic!
 
 Now I can write smarter WHERE clauses and query data like a SQL Ninja! 🥋
