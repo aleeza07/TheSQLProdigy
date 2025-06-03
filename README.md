@@ -3,7 +3,9 @@ AND_OR_NOT_Me /Fun twist on the operators I learned/
 <br>
 
 🔥 Today’s SQL Learning Adventure!
+<br>
 📌 Source: Learned from Mosh (Programming with Mosh YouTube) + W3Schools for extra depth!
+<br>
 🎯 Focus: Mastering AND, OR, NOT operators in MySQL—key tools for filtering data like a pro!
 
 ✨ Key Takeaways (One-Liners!)
@@ -24,5 +26,7 @@ Cross-verified concepts on W3Schools + practiced there for bulletproof understan
 These operators are the backbone of filtering in SQL—crucial for reports, analytics, and app logic!
 
 Now I can write smarter WHERE clauses and query data like a SQL Ninja! 🥋
+<br>
+Author: Aleeza Tabassum
 
 
