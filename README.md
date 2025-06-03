@@ -8,7 +8,8 @@ AND_OR_NOT_Me /Fun twist on the operators I learned/
 <br>
 🎯 Focus: Mastering AND, OR, NOT operators in MySQL—key tools for filtering data like a pro!
 
-✨ Key Takeaways (One-Liners!)
+✨ Key Takeaways
+<br>
 ✅ AND: "All conditions must be TRUE to win!" 🎯
 
 ✅ OR: "Just one TRUE condition? You’re in!" 🔥
